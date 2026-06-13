@@ -1,0 +1,17 @@
+{
+  "name": "smartlibrary_management_system_-main",
+  "version": "1.0.0",
+  "description": "A full-stack Library Management System built with React, Node.js and SQL Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mssql": "^12.5.5"
+  }
+}
